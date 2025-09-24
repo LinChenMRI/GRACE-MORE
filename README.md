@@ -42,9 +42,9 @@ GRACE-MORE/
 │     ├─ full_sampling.mat            # Example fully sampled image
 │     ├─ Mask.mat                     # Mask for evaluation
 │     ├─ freq.mat                     # Wavelet Energy 
-│     └─ traj.mat                     # Trajectory (angles)
-│     └─ rawdata.mat                  # Fully sampled k-space data (Zenodo)
-│     └─ smap.mat                     # Coil sensitivity maps (Zenodo)
+│     ├─ traj.mat                     # Trajectory (angles)
+│     ├─ rawdata.mat                  # Fully sampled k-space data (download full dataset from Zenodo)
+│     └─ smap.mat                     # Coil sensitivity maps (download full dataset from Zenodo)
 │
 ├─ functions/                         # Core functions and reconstruction models
 │  ├─ LS.py                           # Low-rank + Sparse operators
