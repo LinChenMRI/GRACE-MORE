@@ -1,10 +1,6 @@
 # Golden-angle RAdial CEST MRI with MOtion-REsolved reconstruction (GRACE-MORE)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17176815.svg
-        
-        )](https://doi.org/10.5281/zenodo.17176815
-        
-        )
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17176815.svg)](https://doi.org/10.5281/zenodo.17176815)
 
 **Authors:** Yitian Fan, Lin Chen*  
 **Email:** chenlin21@xmu.edu.cn | chenlin0430@163.com  
@@ -29,11 +25,7 @@ Additionally, we provide supplementary materials on representative respiratory s
 
 Due to file size limitations on GitHub, the complete raw and processed datasets are hosted on **Zenodo**:
 
-- **Zenodo record:** [https://doi.org/10.5281/zenodo.17176815
-        
-        ](https://doi.org/10.5281/zenodo.17176815
-        
-        )
+- **Zenodo record:** [https://doi.org/10.5281/zenodo.17176815](https://doi.org/10.5281/zenodo.17176815)
 
 **Included files:**
 - `rawdata.mat` – Fully sampled k-space data  
@@ -86,11 +78,7 @@ python Demo.py
 If you use this code or dataset, please cite:
 
 **Dataset (Zenodo):**  
-[https://doi.org/10.5281/zenodo.17176815
-        
-        ](https://doi.org/10.5281/zenodo.17176815
-        
-        )
+[https://doi.org/10.5281/zenodo.17176815](https://doi.org/10.5281/zenodo.17176815)
 
 ```bibtex
 @dataset{gracemore,
