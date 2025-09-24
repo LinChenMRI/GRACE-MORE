@@ -43,8 +43,8 @@ GRACE-MORE/
 │     ├─ Mask.mat                     # Mask for evaluation
 │     ├─ freq.mat                     # Wavelet Energy 
 │     └─ traj.mat                     # Trajectory (angles)
-│     └─ rawdata.mat                  # Fully sampled k-space data [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17176815.svg)](https://doi.org/10.5281/zenodo.17176815)
-│     └─ smap.mat                     # Coil sensitivity maps  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17176815.svg)](https://doi.org/10.5281/zenodo.17176815)
+│     └─ rawdata.mat                  # Fully sampled k-space data (Zenodo)
+│     └─ smap.mat                     # Coil sensitivity maps (Zenodo)
 │
 ├─ functions/                         # Core functions and reconstruction models
 │  ├─ LS.py                           # Low-rank + Sparse operators
